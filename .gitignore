@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CancelPendingPipeline/v16
+/CancelPendingPipeline/bin/Debug/netcoreapp3.1
+/CancelPendingPipeline/obj
+/CancelPendingPipeline/Properties/launchSettings.json
+/.vs/CancelPendingPipeline/config/applicationhost.config
